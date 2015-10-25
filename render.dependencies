@@ -3,7 +3,7 @@
     "remote": "gh",
     "repository": "rogersb11/android_kernel_samsung_smdk4x12",
     "target_path": "kernel/samsung/smdk4x12",
-    "revision": "mm6.0"
+    "revision": "cm-12.1"
   },
   {
     "remote": "rk",
